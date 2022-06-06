@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Pomiraiu.github.io/rsschool-cv/
