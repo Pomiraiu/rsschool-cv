@@ -7,6 +7,7 @@ ______________
 - *[Telegram]*
 - *Discord (Pomiraiu#8955)*
 - *[Email]*
+- *[Instagram QR]*
 _________
 ### About me
 ##### I am 18 years old, studying in Finland, and I will be finishing high school next year.  I have decided to gradually figure out what I want to do in the future. And perhaps, after a period of time, to be fully self-supporting.
@@ -17,7 +18,7 @@ _________
 - Quick learnability 
 - Good self-discipline
 
-## Skills
+### Skills
 - vocational skills in the process
 
 ### Education
@@ -36,3 +37,4 @@ _________
 [Telegram]: <https://t.me/Pomiraiu> 
 [GitHub]: <https://github.com/Pomiraiu>
 [Email]: <ekatbor6@gmail.com>
+[Instagram QR] 
