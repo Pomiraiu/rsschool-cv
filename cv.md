@@ -7,9 +7,9 @@ ______________
 - *[Telegram]*
 - *Discord (Pomiraiu#8955)*
 - *[Email]*
-
+_________
 ### About me
-###### I am 18 years old, studying in Finland, and I will be finishing high school next year.  I have decided to gradually figure out what I want to do in the future. And perhaps, after a period of time, to be fully self-supporting.
+##### I am 18 years old, studying in Finland, and I will be finishing high school next year.  I have decided to gradually figure out what I want to do in the future. And perhaps, after a period of time, to be fully self-supporting.
 
 ### My advantages are:
 - Can think unconventionally in critical situations
